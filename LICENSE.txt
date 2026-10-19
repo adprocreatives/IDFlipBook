@@ -1,0 +1,9 @@
+IDFlipBook v1.19 FINAL
+Copyright © 2026 Basheer Parammal / adprocreatives. All rights reserved.
+
+Permission is granted to use this script for personal and professional design work.
+Redistribution to colleagues or friends is permitted only in its original, unmodified form with this copyright notice included.
+Resale, sublicensing, repackaging, removal of author credits from the source package, or claiming the code as your own is not permitted without written permission.
+
+The script is provided "as is" without warranty of any kind.
+Adobe InDesign is a trademark of Adobe Inc. IDFlipBook is an independent tool and is not affiliated with or endorsed by Adobe Inc.
